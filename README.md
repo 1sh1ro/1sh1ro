@@ -1,4 +1,12 @@
 ## Hi there 👋
+I'm **1sh1ro**.
+
+🎓 **Tianjin University**
+- **M.S. in Electronic Information** (Current)
+- **B.E. in Cyberspace Security**
+
+I am a developer and researcher passionate about AI 🤖, blockchain security 🔐, and low-level systems ⚙️. 
+I enjoy building innovative tools that solve real-world problems 🛠️ and am an active contributor to the open-source community 🌐.
 
 # My Technical Highlights
 
@@ -64,6 +72,8 @@
 - Built production-ready full-stack applications
 - Published research in automated software debugging
 
+## 📫 How to reach me
+- **Email**: yangxinmeng@tju.edu.cn
 <!--
 **1sh1ro/1sh1ro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
