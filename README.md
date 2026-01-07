@@ -8,71 +8,87 @@ I'm **1sh1ro**.
 I am a developer and researcher passionate about AI 🤖, blockchain security 🔐, and low-level systems ⚙️. 
 I enjoy building innovative tools that solve real-world problems 🛠️ and am an active contributor to the open-source community 🌐.
 
----
-
-# 🌟 Featured Projects
-
-### 🤖 [detect-system](https://github.com/1sh1ro/detect-system) ⭐ 3
-**尿液指标智能检测系统** - 省级大创项目，前后端独立完成
-- 基于计算机视觉的医学指标检测
-- 全栈开发：Flask + Vue.js + Element UI
-- `Python` `Flask` `Vue.js` `Computer Vision`
-
-### 🔐 [web3scan](https://github.com/1sh1ro/web3scan) ⭐ 2
-**Web3 智能合约漏洞扫描器** - AI 辅助安全分析
-- 利用 LLM 进行智能合约安全审计
-- 自动化漏洞检测与报告生成
-- `Python` `LLM` `Web3` `Security`
-
-### 🔗 [piko](https://github.com/1sh1ro/piko) ⭐ 1
-**DeFi 智能合约基础设施**
-- 去中心化金融应用开发
-- 多层合约架构设计
-- `Solidity` `DeFi` `Smart Contract`
-
-### 🛡️ [syzkaller](https://github.com/1sh1ro/syzkaller)
-**内核模糊测试研究**
-- Linux 内核安全研究与增强
-- 系统级漏洞发现
-- `Go` `Kernel` `Fuzzing` `Security`
-
----
-
 # My Technical Highlights
 
 ## 🚀 Most Proficient Languages
-- **Python** - AI/ML, Web 开发, 安全研究
-- **Solidity** - 智能合约开发
-- **TypeScript/JavaScript** - 前端与浏览器扩展
-- **Go** - 系统编程与安全工具
+- **Python** - Primary language for AI/ML, web development, and research projects
+- **Solidity** - Smart contract development and blockchain applications  
+- **JavaScript** - Browser extensions and frontend development
+- **Go** - System programming and security tools
 
-## 🛠️ Core Skills
+## 🛠️ Frequently Used Technologies
 
-| 领域 | 技术栈 |
-|------|--------|
-| **AI & ML** | OpenAI API, Computer Vision, LLM Integration |
-| **Blockchain** | Smart Contracts, DeFi, Web3 Security |
-| **Full-Stack** | Flask, Vue.js, Element UI |
-| **Security** | Vulnerability Assessment, Kernel Fuzzing |
+### AI & Machine Learning
+- **OpenAI API Integration** - LLM-powered applications and analysis tools
+- **Computer Vision** - Medical image processing and detection systems
+- **Research Tools** - Fault localization and automated debugging systems
 
----
+### Blockchain & Web3
+- **Smart Contracts** - Multi-layered contract architectures
+- **Security Analysis** - Vulnerability scanning and penetration testing
+- **Web3 Integration** - Blockchain interaction and DApp development
+
+### Web Development
+- **Backend**: Flask, Python web frameworks
+- **Frontend**: Vue.js, Element UI, HTML/CSS
+- **Full-Stack**: Complete web application development
+
+### Security & Research
+- **Vulnerability Assessment** - Smart contract and web3 security
+- **Kernel Fuzzing** - System-level security research with syzkaller
+- **Browser Security** - Extension development and automation
+
+## 📂 Project Categories
+
+### 🤖 AI/Machine Learning Projects
+- **Medical AI Systems** - Intelligent urine indicator detection with full-stack implementation
+- **LLM Integration Tools** - AI-powered code analysis and research automation
+- **Computer Vision** - Image processing and medical diagnostics
+
+### 🔐 Security & Research
+- **Web3 Vulnerability Scanner** - AI-assisted smart contract security analysis
+- **Kernel Fuzzing** - System security research and bug discovery
+- **Automated Fault Localization** - Research in software debugging
+
+### 🌐 Blockchain Development
+- **Smart Contract Architecture** - Complex multi-layer contract systems
+- **DeFi Applications** - Decentralized finance project development
+- **Security Auditing** - Blockchain vulnerability assessment tools
+
+### 💻 Web & Extension Development  
+- **Full-Stack Applications** - Complete web solutions with modern frameworks
+- **Browser Extensions** - Productivity tools and automation
+- **Desktop Applications** - GUI-based utility software
+
+### 📚 Research & Algorithm Practice
+- **Academic Research** - Published work in software fault localization
+- **Algorithm Implementation** - LeetCode problem solving and optimization
+- **Open Source Contributions** - Active in security and development communities
 
 ## 🎯 Notable Achievements
-- 🏆 省级大创项目负责人 - 医学AI检测系统全栈开发
-- 🔒 开发 AI 驱动的 Web3 安全扫描平台
-- 🐛 参与内核安全研究与模糊测试工具开发
+- Developed provincial-level innovation project (medical AI detection system)
+- Created AI-powered Web3 security scanning platform
+- Contributed to kernel security research with enhanced fuzzing tools
+- Built production-ready full-stack applications
+- Published research in automated software debugging
 
 ---
 
-## 📊 GitHub Stats
+## 🆕 Recent Projects
 
-![1sh1ro's GitHub stats](https://github-readme-stats.vercel.app/api?username=1sh1ro&show_icons=true&theme=radical)
+| Project | Description | Tech |
+|---------|-------------|------|
+| [attentionfi](https://github.com/1sh1ro/attentionfi) | Attention-based DeFi application | TypeScript |
+| [yearlymbti](https://github.com/1sh1ro/yearlymbti) | Summarize your yearly report to MBTI ⭐1 | TypeScript |
+| [cve_crawler](https://github.com/1sh1ro/cve_crawler) | CVE vulnerability crawler tool | Python |
+| [vitacheck](https://github.com/1sh1ro/vitacheck) | Health monitoring tool | Python |
+| [Thyra_docs](https://github.com/1sh1ro/Thyra_docs) | Technical documentation | MDX |
+| [apimanager](https://github.com/1sh1ro/apimanager) | API management tool ⭐1 | Python |
 
 ---
 
 ## 📫 How to reach me
 - **Email**: yangxinmeng@tju.edu.cn
-- **GitHub**: [1sh1ro](https://github.com/1sh1ro)
 <!--
 **1sh1ro/1sh1ro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
