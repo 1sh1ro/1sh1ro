@@ -72,6 +72,21 @@ I enjoy building innovative tools that solve real-world problems 🛠️ and am 
 - Built production-ready full-stack applications
 - Published research in automated software debugging
 
+---
+
+## 🆕 Recent Projects
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| [attentionfi](https://github.com/1sh1ro/attentionfi) | Attention-based DeFi application | TypeScript |
+| [yearlymbti](https://github.com/1sh1ro/yearlymbti) | Summarize your yearly report to MBTI ⭐1 | TypeScript |
+| [cve_crawler](https://github.com/1sh1ro/cve_crawler) | CVE vulnerability crawler tool | Python |
+| [vitacheck](https://github.com/1sh1ro/vitacheck) | Health monitoring tool | Python |
+| [Thyra_docs](https://github.com/1sh1ro/Thyra_docs) | Technical documentation | MDX |
+| [apimanager](https://github.com/1sh1ro/apimanager) | API management tool ⭐1 | Python |
+
+---
+
 ## 📫 How to reach me
 - **Email**: yangxinmeng@tju.edu.cn
 <!--
