@@ -21,11 +21,11 @@
 | **Upstream patch author** · 3 merged PRs | **Upstream bug reporter** · mainline credit |
 | [`chown` permissions](https://github.com/asterinas/asterinas/pull/4003) · [sticky-bit protection](https://github.com/asterinas/asterinas/pull/4031) · [supplementary groups](https://github.com/asterinas/asterinas/pull/4057) | [NTFS NULL dereference — `Reported-by: 1sh1ro`](https://github.com/torvalds/linux/commit/9365c4a1357e2a5d7f1aff140429028ad292161f) |
 
-Also exploring [Asterfuzz — filesystem fuzzing for Asterinas](https://github.com/asterinas/asterinas/issues/4033) and reporting [devlink snapshot-ID leaks](https://lore.kernel.org/netdev/tencent_BE912BA710539F285F9FCF28E854ABEFCD07@qq.com/) upstream.
+Also reported a [devlink snapshot-ID reference leak](https://lore.kernel.org/netdev/tencent_BE912BA710539F285F9FCF28E854ABEFCD07@qq.com/) upstream.
 
 ### `~/about`
 
 M.S. in Electronic Information @ **Tianjin University** · B.E. in Cyberspace Security.  
 Interested in **Rust, Linux, kernel fuzzing, AI tooling, and Web3 security**.
 
-<sub>Elsewhere: [Asterfuzz](https://github.com/1sh1ro/asterfuzz) · [CVE crawler](https://github.com/1sh1ro/cve_crawler) · [API manager](https://github.com/1sh1ro/apimanager) · [Email](mailto:yangxinmeng@tju.edu.cn)</sub>
+<sub>[GitHub](https://github.com/1sh1ro) · [Email](mailto:yangxinmeng@tju.edu.cn)</sub>
