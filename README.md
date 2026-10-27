@@ -24,6 +24,9 @@
 ### `~/upstream`
 
 - **[Asterinas](https://github.com/asterinas/asterinas)** — 3 merged patches: [`chown` permissions](https://github.com/asterinas/asterinas/pull/4003), [sticky-bit protection](https://github.com/asterinas/asterinas/pull/4031), [supplementary-group DAC](https://github.com/asterinas/asterinas/pull/4057).
-- **[Linux mainline](https://github.com/torvalds/linux)** — credited as **`Reported-by`** for an [NTFS NULL dereference fix](https://github.com/torvalds/linux/commit/9365c4a1357e2a5d7f1aff140429028ad292161f). Also [reported a devlink snapshot-ID leak](https://lore.kernel.org/netdev/tencent_BE912BA710539F285F9FCF28E854ABEFCD07@qq.com/) (upstream fix submitted).
+- **Linux kernel · upstream patches & bug reports**
+  - **Mainline:** [NTFS NULL dereference fix](https://github.com/torvalds/linux/commit/9365c4a1357e2a5d7f1aff140429028ad292161f) — credited as `Reported-by`.
+  - **Maintainer-reviewed & tested:** HFS [patch 1/2](https://lkml.iu.edu/2610.2/12021.html) · [patch 2/2](https://lkml.iu.edu/2610.2/12022.html) — authored both; `Reviewed-by` and `Tested-by` received, mainline merge pending.
+  - **Submitted upstream:** [NTFS3](https://lkml.iu.edu/2610.2/10318.html) · [JFS](https://lore.landau.one/lkml/tencent_8EF7489193A3E97C94814F52145E2ADE3706%40qq.com/T/) · [vhost/net](https://lists.openwall.net/netdev/2026/10/24/37) patches; [devlink](https://lore.kernel.org/netdev/tencent_BE912BA710539F285F9FCF28E854ABEFCD07@qq.com/) bug report.
 
 <sub>🎓 M.S. in Electronic Information · Tianjin University &nbsp;|&nbsp; B.E. in Cyberspace Security &nbsp;|&nbsp; [Contact](mailto:yangxinmeng@tju.edu.cn)</sub>
