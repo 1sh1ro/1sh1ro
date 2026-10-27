@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330" role="img" aria-label="1sh1ro — kernel security and filesystem fuzzing">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop stop-color="#0a0e17"/>
+      <stop offset="1" stop-color="#111d29"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" x2="1">
+      <stop stop-color="#55e6bc"/>
+      <stop offset="1" stop-color="#52c8ff"/>
+    </linearGradient>
+    <pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse">
+      <path d="M42 0H0V42" fill="none" stroke="#a2bed0" stroke-opacity=".07" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect x="1" y="1" width="1198" height="328" rx="18" fill="url(#bg)" stroke="#2e4151" stroke-width="2"/>
+  <rect x="2" y="2" width="1196" height="326" rx="18" fill="url(#grid)"/>
+  <path d="M850 40h320M900 65h270M980 90h190M840 265h330M925 290h245" stroke="#4c6e82" stroke-opacity=".22"/>
+  <path d="M840 112h70v30h100v-40h76M902 228h65v-34h120v18h81" fill="none" stroke="#55e6bc" stroke-opacity=".28" stroke-width="2"/>
+  <circle cx="840" cy="112" r="5" fill="#55e6bc" opacity=".5"/>
+  <circle cx="1086" cy="102" r="5" fill="#55e6bc" opacity=".5"/>
+  <circle cx="1168" cy="212" r="5" fill="#55e6bc" opacity=".5"/>
+  <rect x="39" y="37" width="12" height="12" rx="6" fill="#ff7a80"/>
+  <rect x="59" y="37" width="12" height="12" rx="6" fill="#ffc36b"/>
+  <rect x="79" y="37" width="12" height="12" rx="6" fill="#58deb0"/>
+  <text x="116" y="49" font-family="monospace" font-size="17" fill="#8da2b3">~/upstream/kernel</text>
+  <text x="47" y="114" font-family="monospace" font-size="25" fill="#64e7bd">$ whoami</text>
+  <text x="42" y="219" font-family="Arial, Helvetica, sans-serif" font-weight="800" font-size="106" letter-spacing="-5" fill="#f4f8fc">1sh1ro<tspan fill="url(#accent)">_</tspan></text>
+  <text x="48" y="260" font-family="monospace" font-size="23" fill="#b2c5d4">KERNEL SECURITY  /  FILESYSTEM FUZZING</text>
+  <path d="M48 282H746" stroke="url(#accent)" stroke-width="3" stroke-linecap="round" opacity=".8"/>
+  <text x="48" y="308" font-family="monospace" font-size="16" fill="#8099aa">ASTERINAS  ·  LINUX MAINLINE  ·  RUST  ·  BUG HUNTING</text>
+</svg>
