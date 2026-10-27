@@ -5,8 +5,39 @@ I'm **1sh1ro**.
 - **M.S. in Electronic Information** (Current)
 - **B.E. in Cyberspace Security**
 
-I am a developer and researcher passionate about AI 🤖, blockchain security 🔐, and low-level systems ⚙️. 
-I enjoy building innovative tools that solve real-world problems 🛠️ and am an active contributor to the open-source community 🌐.
+My primary interests are **operating systems, file systems, kernel security, and fuzzing**. I also build tools involving AI, blockchain security, and software engineering.
+
+## 🔧 Upstream Kernel Contributions
+
+I contribute patches and bug reports to [Asterinas](https://github.com/asterinas/asterinas), a Rust-based OS kernel, and report vulnerabilities and correctness bugs to the [Linux kernel](https://github.com/torvalds/linux). My work focuses on filesystem semantics, permission enforcement, Linux compatibility, and kernel fault analysis.
+
+### Asterinas · Merged Patches
+
+| Upstream PR | Contribution |
+| --- | --- |
+| [#4003](https://github.com/asterinas/asterinas/pull/4003) | Enforce `chown(2)` permissions and clear set-ID bits on ownership changes |
+| [#4031](https://github.com/asterinas/asterinas/pull/4031) | Enforce sticky-bit protections for `unlink` and `rmdir` |
+| [#4057](https://github.com/asterinas/asterinas/pull/4057) | Respect supplementary groups in discretionary access control (DAC) checks |
+
+**Additional PRs in review (as of 2026-10-27):**
+[#4028 · System V IPC permissions](https://github.com/asterinas/asterinas/pull/4028) ·
+[#4063 · `noexec`/`nodev`/`nosymfollow` enforcement](https://github.com/asterinas/asterinas/pull/4063) ·
+[#4083 · ramfs hole punching](https://github.com/asterinas/asterinas/pull/4083)
+
+**Selected bug reports and research:**
+[#4021 · malformed GPT kernel panics](https://github.com/asterinas/asterinas/issues/4021) ·
+[#3866 · ext2 mount panic](https://github.com/asterinas/asterinas/issues/3866) ·
+[#4065 · directory offset/cookie semantics](https://github.com/asterinas/asterinas/issues/4065) ·
+[#4033 · Asterfuzz file-system fuzzing proposal](https://github.com/asterinas/asterinas/issues/4033)
+
+### Linux Kernel · Bug Reports
+
+- **Merged into mainline — NTFS:** [`ntfs: fix NULL dereference on index allocation open failure`](https://github.com/torvalds/linux/commit/9365c4a1357e2a5d7f1aff140429028ad292161f). Credited as **`Reported-by: 1sh1ro <yangguikun19@qq.com>`** in the upstream commit.
+- **Reported; fix submitted — devlink:** [snapshot ID reference-count leak](https://lore.kernel.org/netdev/tencent_BE912BA710539F285F9FCF28E854ABEFCD07@qq.com/), leaving auto-allocated snapshot IDs permanently reserved after deletion. An upstream patch credits **`Reported-by: Guikun Yang`**; mainline merge has not yet been verified (as of 2026-10-27).
+
+> **Contribution types:** Asterinas entries under *Merged Patches* are authored code contributions; Linux `Reported-by` entries credit bug discovery and reporting, not patch authorship.
+
+---
 
 # My Technical Highlights
 
