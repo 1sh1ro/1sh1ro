@@ -32,4 +32,4 @@ I care about small, reproducible bug reports, regression tests, and patches that
 ---
 
 **Education:** M.S., Electronic Information (in progress) · B.E., Cyberspace Security  
-**Contact:** [Email](mailto:yangxinmeng@tju.edu.cn)
+**Contact:** [yangxinmeng@tju.edu.cn](mailto:yangxinmeng@tju.edu.cn)
